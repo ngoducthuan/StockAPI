@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StockAPI",
+    "\\StockAPI\\StockAPI",
+    "\\StockAPI\\StockAPI\\PRN231",
+    "\\StockAPI\\StockAPI\\PRN231\\Middlewares",
+    "\\StockAPI\\StockAPI\\PRN231\\Models",
+    "\\StockAPI\\StockAPI\\PRN231\\Models\\Requests",
+    "\\StockAPI\\StockAPI\\PRN231\\Models\\Response",
+    "\\StockAPI\\StockAPI\\PRN231\\Properties",
+    "\\StockAPI\\StockAPI\\PRN231\\Properties\\PublishProfiles"
+  ],
+  "SelectedNode": "\\StockAPI\\StockAPI\\PRN231.sln",
+  "PreviewInSolutionExplorer": false
+}
