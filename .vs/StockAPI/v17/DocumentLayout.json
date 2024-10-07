@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StockPrediction\\StockAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareObjectResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareObjectResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Requests\\CompareRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Models\\Requests\\CompareRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Middlewares\\ExceptionHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Middlewares\\ExceptionHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\DTOs\\StocksOverTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\DTOs\\StocksOverTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\DTOs\\PredictValues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\DTOs\\PredictValues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Controllers\\StockAnalysisController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Controllers\\StockAnalysisController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Controllers\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\Controllers\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\PRN231.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockAPI\\StockAPI\\PRN231\\PRN231.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompareResponse.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareResponse.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareResponse.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareResponse.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:24.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompareObjectResponse.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareObjectResponse.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareObjectResponse.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareObjectResponse.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Models\\Response\\CompareObjectResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:23.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompareRequest.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Requests\\CompareRequest.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Models\\Requests\\CompareRequest.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Models\\Requests\\CompareRequest.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Models\\Requests\\CompareRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\appsettings.json",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\appsettings.json",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\appsettings.json",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T14:49:13.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Program.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Program.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Program.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:49:08.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StocksOverTime.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\DTOs\\StocksOverTime.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\DTOs\\StocksOverTime.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\DTOs\\StocksOverTime.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\DTOs\\StocksOverTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PredictValues.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\DTOs\\PredictValues.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\DTOs\\PredictValues.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\DTOs\\PredictValues.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\DTOs\\PredictValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockAnalysisController.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Controllers\\StockAnalysisController.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Controllers\\StockAnalysisController.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Controllers\\StockAnalysisController.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Controllers\\StockAnalysisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:51:09.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PRN231.csproj",
+              "DocumentMoniker": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\PRN231.csproj",
+              "RelativeDocumentMoniker": "StockAPI\\StockAPI\\PRN231\\PRN231.csproj",
+              "ToolTip": "D:\\StockPrediction\\StockAPI\\StockAPI\\StockAPI\\PRN231\\PRN231.csproj",
+              "RelativeToolTip": "StockAPI\\StockAPI\\PRN231\\PRN231.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T14:48:38.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
